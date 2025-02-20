@@ -21,7 +21,7 @@ The project also includes **advanced analysis**, such as:
 
 ##  Steps for Data Cleaning
 
-1. **I convert all names to uppercase first, then lowercase.**
+1. **I converted all names to uppercase first, then lowercase.**
 2. **I ensured city names have proper capitalization** (first letter uppercase, rest lowercase).
 3. **I filled missing values in Age, Blood Type, and Education using statistical imputation.**
 4. **I fixed negative salary values by taking their absolute value.**
